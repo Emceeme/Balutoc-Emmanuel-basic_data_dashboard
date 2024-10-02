@@ -1,0 +1,29 @@
+body{
+    background-color: linear-gradient(orange,yellow,red,purple);
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: aliceblue;
+    text-emphasis-color: red;
+}
+
+main{
+    padding: 10px;
+    text-align: center;
+}
+
+.metric{
+    background-color: white;
+    border: 10px;
+    margin: auto;
+    padding: 10px;
+}
+button{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+button:hover{
+    background-color: grey;
+}
